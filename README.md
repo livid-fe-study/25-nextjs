@@ -3,7 +3,7 @@ Next.js 코드 분석 스터디
 
 | 날짜  | 주제        |
 |------|------------|
-|  4/9 | head       |
+|  4/9 | head, metadata       |
 | 4/16 | link       |
 | 4/23 | image      |
 | 4/30 | script     |
