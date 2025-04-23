@@ -75,7 +75,8 @@ export class ImageOptimizerCache {
 }
 ```
 
-![image](https://hackmd.io/_uploads/SJGvyBMJle.png)
+![image](https://github.com/user-attachments/assets/545093ee-edc8-487d-8d63-0ba02e5c8144)
+
 
 파일명은 여러 정보를 조합해서 만든다.
 
