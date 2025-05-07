@@ -52,3 +52,8 @@ return React.useMemo(() => {
   }
 }, [props, state])
 ```
+
+- dynamic API는 두 가지로 나눠서 제공된다. (app/pages)
+- app router를 위한 dynamic은 app-dynamic.tsx 파일이다.
+- pages router를 위한 dynamic은 dynamic.tsx 파일이다.
+- 이것은 webpack 설정에서 alias로 넣어주고 있다.(create-compiler-aliases 파일 참고)
