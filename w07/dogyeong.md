@@ -103,7 +103,7 @@ function loadLazyScript(props: ScriptProps) {
 - 폰트 메타데이터는 `font-data.json`에 있음
 - 메타데이터를 바탕으로 폰트 정보(url, fontFamily 등)를 얻을 수 있음
 
-```ts!
+```ts
     // Fetch CSS from Google Fonts or get it from the cache
     let fontFaceDeclarations = hasCachedCSS
       ? cssCache.get(url)
