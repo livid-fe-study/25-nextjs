@@ -229,6 +229,9 @@ export function getFallbackFontOverrideMetrics(fontFamily: string) {
     - line-gap-override
     - size-adjust
 
+![image](https://github.com/user-attachments/assets/b3dc231d-7c62-44a6-8ef3-84a3bb8822a2)
+
+
 ### local font
 
 - 사용한 폰트 중에서 fallback 생성에 사용할 폰트 선택
