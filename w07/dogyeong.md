@@ -229,7 +229,7 @@ export function getFallbackFontOverrideMetrics(fontFamily: string) {
     - line-gap-override
     - size-adjust
 
-![image](https://github.com/user-attachments/assets/b3dc231d-7c62-44a6-8ef3-84a3bb8822a2)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/1653deee-6a9d-4d59-976a-8a6613da5dd0" />
 
 
 ### local font
