@@ -92,5 +92,18 @@ export default class NextNodeServer {
 
 ```
 
+- adapter에서는 async storage 사용
+
+```ts
+return await workAsyncStorage.run(workStore, () =>
+    workUnitAsyncStorage.run(
+      requestStore,
+      params.handler,
+      request,
+      event
+    )
+  )
+```
+
 - 미들웨어 테스트
   - https://nextjs.org/docs/app/building-your-application/routing/middleware#unit-testing-experimental
