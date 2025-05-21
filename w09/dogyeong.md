@@ -91,3 +91,6 @@ export default class NextNodeServer {
 }
 
 ```
+
+- 미들웨어 테스트
+  - https://nextjs.org/docs/app/building-your-application/routing/middleware#unit-testing-experimental
