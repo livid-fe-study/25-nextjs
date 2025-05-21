@@ -35,6 +35,7 @@ export const config = {
 ### 서버에서 미들웨어 실행
 
 ```ts
+// next-server.ts
 export default class NextNodeServer {
     protected async runMiddleware() {
         const middleware = await this.getMiddleware()
