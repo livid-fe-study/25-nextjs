@@ -29,6 +29,7 @@
 - [graphite](https://graphite.dev/homepage)
     - next.js
         - https://github.com/vercel/next.js/pull/77894
+    - [stacking workflow](https://www.stacking.dev/?utm_source=stack-comment)
 - [ghstack](https://github.com/ezyang/ghstack)
     - https://github.com/facebook/react/pull/33384
 - [Amazon Q Developer](https://aws.amazon.com/ko/q/developer/)
