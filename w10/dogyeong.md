@@ -21,6 +21,7 @@
 
 - https://www.anthropic.com/claude-code
 - https://openai.com/index/introducing-codex/
+- [mrge](https://www.cubic.dev/home)
 - [greptile](https://www.greptile.com/)
     - storybook
         - https://github.com/storybookjs/storybook/issues/30867
