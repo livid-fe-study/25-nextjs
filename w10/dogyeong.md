@@ -34,3 +34,7 @@
     - https://github.com/facebook/react/pull/33384
 - [Amazon Q Developer](https://aws.amazon.com/ko/q/developer/)
 - [Gemini Code Assist](https://github.com/apps/gemini-code-assist)
+- https://manus.im/
+- https://www.polymet.ai/
+- https://www.diabrowser.com/finals/thanks
+- https://fellou.ai/
