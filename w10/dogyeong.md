@@ -5,10 +5,22 @@
 - jira
 - figma
 - slack
+- postgresql
+
+### Cursor 활용
+
+- SQL 생성
+- db 엔티티 수정 -> 엔드포인트 추가
+- 추가된 엔드포인트 반영
+
+- jira 티켓을 던져주면 그걸 읽어서 작업을 한다.
+- 작업을 해서 pr까지 만들어 줌
 
 
 ## AI tool
 
+- https://www.anthropic.com/claude-code
+- https://openai.com/index/introducing-codex/
 - [greptile](https://www.greptile.com/)
     - storybook
         - https://github.com/storybookjs/storybook/issues/30867
